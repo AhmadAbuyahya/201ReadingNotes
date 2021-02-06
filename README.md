@@ -3,7 +3,7 @@ Here you will find the reading notes from all the 201 course classes.
 
 
 ## Table of contents
-* [Class 01](#)
+* [Class 01](https://ahmadabuyahya.github.io/201ReadingNotes/class01.html)
 * [Class 02](#)
 * [Class 03](#)
 * [Class 04](#)
