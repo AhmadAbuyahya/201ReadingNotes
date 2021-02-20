@@ -24,7 +24,7 @@ This is very helpful when you use the same sized images on several pages of your
 * Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
 
 ## Video and Audio APIs
-* The <video> and <audio> elements allow us to embed video and audio into web pages.
+* The \<video\> and \<audio\> elements allow us to embed video and audio into web pages.
 * the most interesting attribute is controls, which enables the default set of playback controls. If you don't specify this, you get no playback controls
 * his is not as immediately useful for video playback, but it does have advantages. One big issue with the native browser controls is that they are different in each browser — not very good for cross-browser support! Another big issue is that the native controls in most browsers aren't very keyboard-accessible.
 
