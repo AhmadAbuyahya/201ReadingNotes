@@ -16,5 +16,6 @@ Here you will find the reading notes from all the 201 course classes.
 * [Class 11](https://ahmadabuyahya.github.io/201ReadingNotes/class11)
 * [Class 12](https://ahmadabuyahya.github.io/201ReadingNotes/class12)
 * [Class 13](https://ahmadabuyahya.github.io/201ReadingNotes/class13)
-* [Class 14](https://ahmadabuyahya.github.io/201ReadingNotes/class14)
+* [Class 14](https://ahmadabuyahya.github.io/201ReadingNotes/class14a)
+* [Class 14](https://ahmadabuyahya.github.io/201ReadingNotes/class14b)
 * [Class 15](https://ahmadabuyahya.github.io/201ReadingNotes/class15)
